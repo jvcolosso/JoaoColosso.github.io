@@ -4,9 +4,11 @@
 </div>
 <div align="center">
 <div>
-  <h1 align="center">Olá, Eu sou<i>João Victor Colosso</i></a> 😃️</h1>
+  <h1 align="center">Olá, Eu sou<i> João Victor Colosso </i></a> 😃️</h1>
 </div>
-- Estudante de desenvolvimento e análise de sistemas.
+- Estudante de Desenvolvimento e Análise de Sistemas.
+Meu Portifólio Online: https://portfoliocolosso.netlify.app/
+
 
 ##
 ## Estou aprendendo
